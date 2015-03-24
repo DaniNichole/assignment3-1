@@ -1,18 +1,5 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Hello Darien,
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
-
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+So first there are a couple semicolons that are missing on lines: 92, 136, 141, 149 after I added in the semicolons it worked great.
+Secondly I love how you changed the messages after you selected a TeaStrength. It made it unique and a tad bit funny.
+Overall your code is great and i like how you made barriers so that you can see all the different portions of the app.
